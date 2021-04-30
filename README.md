@@ -1,4 +1,6 @@
 # sample-test
+I am @ThakurRupesh05
+Contact me on my mail-rupeshsingh_thakur05@yahoo.com
 This is a simple web page for test responsive HTML images example.
 Image I've taken from the github page of mdn learngig repo.
 This web page is just for testing image responsive ness.
